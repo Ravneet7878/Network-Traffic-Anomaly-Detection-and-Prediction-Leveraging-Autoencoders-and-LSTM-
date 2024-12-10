@@ -1,0 +1,2 @@
+# Network-Traffic-Anomaly-Detection-and-Prediction-Leveraging-Autoencoders-and-LSTM-
+This study introduces Autoencoders and LSTM networks for anomaly and intrusion detection in complex network data. Tested on the KDD CUP dataset, the approach achieves superior detection accuracy and fewer false alarms compared to traditional methods, providing a scalable solution to evolving cybersecurity challenges.
